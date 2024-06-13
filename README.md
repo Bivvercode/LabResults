@@ -6,11 +6,11 @@
 ## Getting Started
 1. Clone the project to your local machine.
 2. Open the terminal and navigate to the project folder.
-3. Open a new terminal and go into the `LabResultsExercise` directory.
-4. Run the following command to restore dependencies:
+3. Run the following command to restore dependencies:
 ```bash
 dotnet restore
 ```
+4. Then go into the `LabResultsExercise` directory.
 5. Run the following command to build and start the project:
 ```bash
 dotnet run
